@@ -1,0 +1,7 @@
+name = "ParticlesTools"
+uuid = "63489647-51ba-493c-b725-8a04c5c720f5"
+authors = ["Ravinder Bhattoo <ravinderbhattoo@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
